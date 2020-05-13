@@ -1,0 +1,7 @@
+https://gist.github.com/baraldilorenzo/8d096f48a1be4a2d660d
+
+https://github.com/tensorflow/tensorflow/blob/r1.9/tensorflow/python/keras/applications/imagenet_utils.py
+
+https://keras.io/api/applications/
+
+https://www.tensorflow.org/api_docs/python/tf/keras/applications/resnet/preprocess_input

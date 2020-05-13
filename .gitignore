@@ -1,0 +1,6 @@
+/results/*
+/styles/*
+/targets/*
+vgg19_weights_notop.h5
+*.jpg
+*.png
